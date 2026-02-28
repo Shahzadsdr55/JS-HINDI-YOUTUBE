@@ -22,14 +22,14 @@ const bigNumber = 281763567891987289n
 
 // Array, Objects, Functions
 
-const heros = ["H1", "H2", "H3"];
-let myObj = {
-    name: "Shahzad Khan",
-    age: 27,
-}
+// const heros = ["H1", "H2", "H3"];
+// let myObj = {
+//     name: "Shahzad Khan",
+//     age: 27,
+// }
 
-const myFunction = function(){
-    console.log("Hello World");
-}
+// const myFunction = function(){
+//     console.log("Hello World");
+// }
 
-console.log(typeof bigNumber)
+// console.log(typeof bigNumber)
